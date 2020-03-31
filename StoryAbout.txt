@@ -1,0 +1,30 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Full Name		: Adeline Soerjonoto
+  Student ID		: 30849756
+  Units			: MCD4720 - Fundamentals of C++
+  Date Created		: 10 / 7 / 2019
+  Last Updated		: 24 / 7 / 2019
+  Work			: Assignment 1
+  Lecturer Name		: Haidar AL-Khalidi
+  Lab Teacher Name	: Mehran Vahid
+  Lab No.		: MCD4720 Laboratory 07-P1
+  Lab Time		: Wednesday, 1:00pm - 3:30pm
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	     The Amazing Story Generator	
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ All good stories start with a spark of an idea. The 
+ Amazing Story Generator that selects random settings,
+ characters, and situations and combine them is  a 
+ thousand ways to help you create your next great story.
+
+ Generating a story line, combines 3 story elements to 
+ create intriguing plot lines.
+
+ It's the perfect inspiration for your next novel, short
+ story, screenplay, or other creative
+ endeavour.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
